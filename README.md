@@ -1,16 +1,33 @@
-# React + Vite
+# 🎭 LaughterHub — Premium UI Jokes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LaughterHub is a minimalist, modern, and high-performance web application built to deliver curated humor on-demand. Designed with a **SaaS-inspired dark aesthetic**, it features a clean interface, glassmorphism effects, and a seamless user experience.
 
-Currently, two official plugins are available:
+![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+Check out the live application here: **[Your-Vercel-Link-Here]**
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **On-Demand Generation:** Jokes are only loaded when the user requests them, ensuring zero clutter on start.
+- **Batch Processing:** Fetches exactly 15 jokes per request using the FreeAPI public endpoint.
+- **Modern UI/UX:** - Glassmorphism card effects.
+  - Responsive typography using `clamp()`.
+  - Ambient background gradients.
+  - Smooth "Back to Top" navigation.
+- **Mobile Responsive:** Perfectly optimized for all screen sizes from mobile to ultra-wide monitors.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js
+- **Styling:** Vanilla CSS (Custom properties & Flexbox/Grid)
+- **API:** [FreeAPI.app](https://freeapi.app/) (Random Jokes Endpoint)
+- **Deployment:** Vercel
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/laughter-hub.git](https://github.com/YOUR_USERNAME/laughter-hub.git)
