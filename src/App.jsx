@@ -48,7 +48,7 @@ function App() {
             className="sync-btn"
             disabled={loading}
           >
-            {loading ? "Brewing 15 Jokes..." : "Generate 15 Jokes"}
+            {loading ? "Brewing  Jokes..." : "Generate Jokes"}
           </button>
         </header>
 
