@@ -1,4 +1,4 @@
-# 🎭 LaughterHub — Premium UI Jokes App
+# 🎭 LaughterHub -— Premium UI Jokes App
 
 LaughterHub is a minimalist, modern, and high-performance web application built to deliver curated humor on-demand. Designed with a **SaaS-inspired dark aesthetic**, it features a clean interface, glassmorphism effects, and a seamless user experience.
 
