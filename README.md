@@ -5,7 +5,6 @@ LaughterHub is a minimalist, modern, and high-performance web application built 
 ![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ## 🚀 Live Demo
 Check out the live application here: **[Your-Vercel-Link-Here]**
 
@@ -31,3 +30,5 @@ Check out the live application here: **[Your-Vercel-Link-Here]**
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/laughter-hub.git](https://github.com/YOUR_USERNAME/laughter-hub.git)
+
+   
